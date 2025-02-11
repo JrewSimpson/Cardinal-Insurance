@@ -10,6 +10,7 @@ This program provides a form for user input to determine the insurance costs bas
 - <b>Visual Studio 2022</b> 
 
 
+<h2>Screenshots:</h2>
 <img src="https://github.com/JrewSimpson/Cardinal-Insurance/blob/20bec94596a40f605ef66184b2f7775d632768e1/Cardinal%20Example1.JPG" height="80%" width="80%" alt="]"/>
 <img src="https://github.com/JrewSimpson/Cardinal-Insurance/blob/20bec94596a40f605ef66184b2f7775d632768e1/Cardinal%20Example2.JPG" height="80%" width="80%" alt="]"/>
 
